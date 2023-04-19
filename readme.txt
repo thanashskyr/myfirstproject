@@ -1,2 +1,2 @@
 
-Hello this is your friend Aris 
+Hello this is a text
